@@ -1,5 +1,14 @@
 ---
-title: "myweb"
+about:
+  template: jolla
+  id: about-block
+  links:
+    -    icon: github
+         text: Github
+         href: https://github.com/JMartinezGarcia
+    -    icon: linkedin
+         text: linkedin
+         href: https://www.linkedin.com/in/jmartinez-garcia/   
 ---
 
 This is a Quarto website.
